@@ -26,7 +26,7 @@
 <ul>
   <li>❤️ I love Coding.</li>
   <li>🌱 I’m currently learning .Net core and Game development.</li>
-  <li>💼 Ask me about Backend and Database Development</li>
+  <li>💼 Ask me about Backend, Database Development and API Integration</li>
   <li>🧐 Website, https://www.picoapp.tech</li>
   <li>🎢 Profile Visitors Count: <img src="https://komarev.com/ghpvc/?username=yuvankarthik&label=Views&color=brightgreen&style=flat-square" alt="views on github" />    </li>
   
@@ -47,6 +47,17 @@ const karthik = {
       video_editor: ["Filmora", "Adobe Premiere"],
       protocol: ["HTTP", "FTP", "SMTP", "TCP", "SFTP"],
       installer: ["Inno setup", "Advanced Installer"],
-      api_intergration: ["Google", "MailChimp", "PAYTM", "Phonepe", "GSP", "..."]     
+      api: ["Google", "MailChimp", "PAYTM", "Phonepe", "GSP", "..."]     
   }
 }
+```
+     
+<div align="center">
+
+[![](https://raw.githubusercontent.com/yuvankarthik/yuvankarthik/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
+[![](https://raw.githubusercontent.com/yuvankarthik/yuvankarthik/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yuvankarthik/yuvankarthik/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yuvankarthik/yuvankarthik/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yuvankarthik/yuvankarthik/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+</div>
