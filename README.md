@@ -95,18 +95,21 @@ const karthik = {
 </a>
 
 <a href="https://linkedin.com/in/karthikapptech/">
-  <img align="left" alt="Karthik's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Karthik's Linkdein" width="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
   
 <a href="https://stackoverflow.com/users/2717362/karthik">
-  <img align="left" alt="Karthik's Stack overflow" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
+  <img align="left" alt="Karthik's Stack overflow" width="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" />
 </a>  
   
 <a href="https://www.freelancer.com/u/agilekarthik">
-  <img align="left" alt="Karthik's Freelancer" width="22px" src="https://i.ibb.co/6b3cdp0/freelance.png" />
+  <img align="left" alt="Karthik's Freelancer" width="21px" src="https://i.ibb.co/6b3cdp0/freelance.png" />
 </a>  
   
-
+<a target="_blank" href="mailto:karthikjune90@gmail.com">
+  <img align="left" alt="Karthik's GMail" width="24px" src="https://i.ibb.co/PcLJrVG/icons8-gmail-48.png"></img>
+</a>
+  
 <br/>
 
 </details>
