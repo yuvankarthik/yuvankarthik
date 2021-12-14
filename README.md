@@ -1,8 +1,8 @@
-                                             Hello, This is Karthik Thirumoorthi(@yuvankarthik) 
+                                        Hello, This is Karthik Thirumoorthi(@yuvankarthik) 
                                            
-                 # I’m interested in Software & Game development            # I’m currently learning .NET Core
+            # I’m interested in Software & Game development            # I’m currently learning .NET Core
                   
-                                                    # Reach me @ Karthikjune90@gmail.com
+                                               # Reach me @ Karthikjune90@gmail.com
 
 <!---
 yuvankarthik/yuvankarthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
