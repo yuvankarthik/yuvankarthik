@@ -41,7 +41,7 @@ const karthik = {
   database: ["Oracle", "MySQL", "Postegres", "MS SQL","Firebird","Absolute DB"],
   askMeAbout: ["Poroduct dev", "Database dev", "API integration"],
   familiar_technologies: {      
-      backend: ["Node", "SWITF", "Python", "C++"],
+      backend: ["Node", "SWIFT", "Python", "C++"],
       game_engine: ["Unity3D"],
       graphic: ["Photoshop"],
       video_editor: ["Filmora", "Adobe Premiere"],
